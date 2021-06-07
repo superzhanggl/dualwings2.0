@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.ruoyi.common.mybatisplus.config.MybatisPlusConfig,\
+  com.ruoyi.common.mybatisplus.config.MyMetaObjectHandler,\
+  com.ruoyi.common.mybatisplus.config.IdAutoGeneratorConfig
+
+  

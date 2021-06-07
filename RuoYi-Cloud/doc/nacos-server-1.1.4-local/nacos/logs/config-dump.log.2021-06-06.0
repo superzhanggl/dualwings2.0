@@ -1,0 +1,62 @@
+2021-06-06 00:42:34,137 INFO [dump-all-ok] application-dev.yml+DEFAULT_GROUP, 1608535764000, length=594, md5=c07e6f7321493f6d5390d0a08bffb75a
+
+2021-06-06 00:42:34,143 INFO [dump-all-ok] ruoyi-gateway-dev.yml+DEFAULT_GROUP, 1605693203000, length=1284, md5=ef4a58daf989827334b3aac1c9d68392
+
+2021-06-06 00:42:34,148 INFO [dump-all-ok] ruoyi-auth-dev.yml+DEFAULT_GROUP, 1614517618000, length=73, md5=b7354e1eb62c2d846d44a796d9ec6930
+
+2021-06-06 00:42:34,160 INFO [dump-all-ok] ruoyi-monitor-dev.yml+DEFAULT_GROUP, 1608539287000, length=144, md5=d8997d0707a2fd5d9fc4e8409da38129
+
+2021-06-06 00:42:34,167 INFO [dump-all-ok] ruoyi-system-dev.yml+DEFAULT_GROUP, 1611715345000, length=2253, md5=93a9d4c336213161603d0a44ffe1e9ea
+
+2021-06-06 00:42:34,170 INFO [dump-all-ok] ruoyi-gen-dev.yml+DEFAULT_GROUP, 1611628605000, length=851, md5=d9c5052f772a94d94e3ec0e7b1c54a81
+
+2021-06-06 00:42:34,173 INFO [dump-all-ok] ruoyi-job-dev.yml+DEFAULT_GROUP, 1611628564000, length=625, md5=35d32a78b8193eed36dd1cebc69852e6
+
+2021-06-06 00:42:34,177 INFO [dump-all-ok] ruoyi-file-dev.yml+DEFAULT_GROUP, 1608555719000, length=362, md5=5382b93f3d8059d6068c0501fdd41195
+
+2021-06-06 00:42:34,180 INFO [dump-all-ok] sentinel-ruoyi-gateway+DEFAULT_GROUP, 1605801600000, length=715, md5=9f3a3069261598f74220bc47958ec252
+
+2021-06-06 10:32:13,736 INFO [dump-all-ok] application-dev.yml+DEFAULT_GROUP, 1608535764000, length=594, md5=c07e6f7321493f6d5390d0a08bffb75a
+
+2021-06-06 10:32:13,747 INFO [dump-all-ok] ruoyi-gateway-dev.yml+DEFAULT_GROUP, 1622913444000, length=1483, md5=9c05ed9683ede15f50b40ba987fd19d1
+
+2021-06-06 10:32:13,756 INFO [dump-all-ok] ruoyi-auth-dev.yml+DEFAULT_GROUP, 1614517618000, length=73, md5=b7354e1eb62c2d846d44a796d9ec6930
+
+2021-06-06 10:32:13,762 INFO [dump-all-ok] ruoyi-monitor-dev.yml+DEFAULT_GROUP, 1608539287000, length=144, md5=d8997d0707a2fd5d9fc4e8409da38129
+
+2021-06-06 10:32:13,775 INFO [dump-all-ok] ruoyi-system-dev.yml+DEFAULT_GROUP, 1611715345000, length=2253, md5=93a9d4c336213161603d0a44ffe1e9ea
+
+2021-06-06 10:32:13,777 INFO [dump-all-ok] ruoyi-gen-dev.yml+DEFAULT_GROUP, 1611628605000, length=851, md5=d9c5052f772a94d94e3ec0e7b1c54a81
+
+2021-06-06 10:32:13,784 INFO [dump-all-ok] ruoyi-job-dev.yml+DEFAULT_GROUP, 1611628564000, length=625, md5=35d32a78b8193eed36dd1cebc69852e6
+
+2021-06-06 10:32:13,788 INFO [dump-all-ok] ruoyi-file-dev.yml+DEFAULT_GROUP, 1608555719000, length=362, md5=5382b93f3d8059d6068c0501fdd41195
+
+2021-06-06 10:32:13,796 INFO [dump-all-ok] sentinel-ruoyi-gateway+DEFAULT_GROUP, 1605801600000, length=715, md5=9f3a3069261598f74220bc47958ec252
+
+2021-06-06 10:32:13,798 INFO [dump-all-ok] ruoyi-sales-dev.yml+DEFAULT_GROUP, 1622912413000, length=2252, md5=b3b2f6ee7e993b6799a704c6fc88f853
+
+2021-06-06 22:37:32,539 INFO [dump-all-ok] application-dev.yml+DEFAULT_GROUP, 1608535764000, length=594, md5=c07e6f7321493f6d5390d0a08bffb75a
+
+2021-06-06 22:37:32,549 INFO [dump-all-ok] ruoyi-gateway-dev.yml+DEFAULT_GROUP, 1622947052000, length=1678, md5=f5382f4b46e85f71b6284d5b3af18a95
+
+2021-06-06 22:37:32,553 INFO [dump-all-ok] ruoyi-auth-dev.yml+DEFAULT_GROUP, 1614517618000, length=73, md5=b7354e1eb62c2d846d44a796d9ec6930
+
+2021-06-06 22:37:32,556 INFO [dump-all-ok] ruoyi-monitor-dev.yml+DEFAULT_GROUP, 1608539287000, length=144, md5=d8997d0707a2fd5d9fc4e8409da38129
+
+2021-06-06 22:37:32,570 INFO [dump-all-ok] ruoyi-system-dev.yml+DEFAULT_GROUP, 1611715345000, length=2253, md5=93a9d4c336213161603d0a44ffe1e9ea
+
+2021-06-06 22:37:32,574 INFO [dump-all-ok] ruoyi-gen-dev.yml+DEFAULT_GROUP, 1611628605000, length=851, md5=d9c5052f772a94d94e3ec0e7b1c54a81
+
+2021-06-06 22:37:32,576 INFO [dump-all-ok] ruoyi-job-dev.yml+DEFAULT_GROUP, 1611628564000, length=625, md5=35d32a78b8193eed36dd1cebc69852e6
+
+2021-06-06 22:37:32,578 INFO [dump-all-ok] ruoyi-file-dev.yml+DEFAULT_GROUP, 1608555719000, length=362, md5=5382b93f3d8059d6068c0501fdd41195
+
+2021-06-06 22:37:32,589 INFO [dump-all-ok] sentinel-ruoyi-gateway+DEFAULT_GROUP, 1605801600000, length=715, md5=9f3a3069261598f74220bc47958ec252
+
+2021-06-06 22:37:32,593 INFO [dump-all-ok] ruoyi-sales-dev.yml+DEFAULT_GROUP, 1622912413000, length=2252, md5=b3b2f6ee7e993b6799a704c6fc88f853
+
+2021-06-06 22:37:32,597 INFO [dump-all-ok] ruoyi-order-dev.yml+DEFAULT_GROUP, 1622946932000, length=2252, md5=f80cdf3d31019e16ef74daab2d6d361c
+
+2021-06-06 23:40:21,674 WARN [dump-ignore] ignore to save cache file. groupKey=ruoyi-sales-dev.yml+DEFAULT_GROUP, md5=1528308fd872e94d7407d034d0203548, lastModifiedOld=1622992073256, lastModifiedNew=1622994021506
+

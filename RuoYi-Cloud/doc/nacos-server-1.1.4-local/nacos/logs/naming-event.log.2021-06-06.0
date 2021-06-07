@@ -1,0 +1,232 @@
+2021-06-06 00:46:47,883 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 00:46:47,887 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 192.168.0.104:8080_true,
+
+2021-06-06 00:51:53,326 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8080@DEFAULT@DEFAULT_GROUP@@ruoyi-gateway, region: unknown, msg: client timeout after 15000, last beat: 1622911898231
+
+2021-06-06 00:52:08,651 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 00:52:08,651 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 
+
+2021-06-06 00:52:56,156 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 00:52:56,156 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 192.168.0.104:8080_true,
+
+2021-06-06 01:04:18,062 INFO DEFAULT_GROUP@@ruoyi-sales {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 01:04:18,062 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-sales, ips: 192.168.0.104:9401_true,
+
+2021-06-06 01:06:10,645 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 01:06:10,645 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 192.168.0.104:9200_true,
+
+2021-06-06 01:06:52,966 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 01:06:52,966 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 192.168.0.104:9201_true,
+
+2021-06-06 01:18:11,462 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8080@DEFAULT@DEFAULT_GROUP@@ruoyi-gateway, region: unknown, msg: client timeout after 15000, last beat: 1622913474561
+
+2021-06-06 01:18:26,536 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 01:18:26,536 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 
+
+2021-06-06 01:18:34,327 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9201@DEFAULT@DEFAULT_GROUP@@ruoyi-system, region: unknown, msg: client timeout after 15000, last beat: 1622913494599
+
+2021-06-06 01:18:49,375 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 01:18:49,375 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 
+
+2021-06-06 01:19:37,348 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 01:19:37,348 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 192.168.0.104:8080_true,
+
+2021-06-06 01:20:14,924 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9401@DEFAULT@DEFAULT_GROUP@@ruoyi-sales, region: unknown, msg: client timeout after 15000, last beat: 1622913595517
+
+2021-06-06 01:20:22,272 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9200@DEFAULT@DEFAULT_GROUP@@ruoyi-auth, region: unknown, msg: client timeout after 15000, last beat: 1622913603613
+
+2021-06-06 01:20:29,983 INFO DEFAULT_GROUP@@ruoyi-sales {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 01:20:29,983 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-sales, ips: 
+
+2021-06-06 01:20:37,314 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 01:20:37,346 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 
+
+2021-06-06 01:21:04,900 INFO DEFAULT_GROUP@@ruoyi-sales {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 01:21:04,901 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-sales, ips: 192.168.0.104:9401_true,
+
+2021-06-06 01:21:12,306 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 01:21:12,306 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 192.168.0.104:9200_true,
+
+2021-06-06 01:24:11,946 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 01:24:11,946 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 192.168.0.104:9201_true,
+
+2021-06-06 01:30:47,265 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9401@DEFAULT@DEFAULT_GROUP@@ruoyi-sales, region: unknown, msg: client timeout after 15000, last beat: 1622914231790
+
+2021-06-06 01:30:48,184 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8080@DEFAULT@DEFAULT_GROUP@@ruoyi-gateway, region: unknown, msg: client timeout after 15000, last beat: 1622914229516
+
+2021-06-06 01:30:48,528 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9200@DEFAULT@DEFAULT_GROUP@@ruoyi-auth, region: unknown, msg: client timeout after 15000, last beat: 1622914230407
+
+2021-06-06 01:30:51,120 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9201@DEFAULT@DEFAULT_GROUP@@ruoyi-system, region: unknown, msg: client timeout after 15000, last beat: 1622914231683
+
+2021-06-06 01:31:02,855 INFO DEFAULT_GROUP@@ruoyi-sales {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 01:31:02,855 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-sales, ips: 
+
+2021-06-06 01:31:03,231 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 01:31:03,231 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 
+
+2021-06-06 01:31:03,599 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 01:31:03,599 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 
+
+2021-06-06 01:31:06,167 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 01:31:06,167 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 
+
+2021-06-06 10:40:11,783 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 10:40:11,789 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 192.168.0.104:8080_true,
+
+2021-06-06 10:41:12,760 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 10:41:12,760 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 192.168.0.104:9200_true,
+
+2021-06-06 10:42:10,672 INFO DEFAULT_GROUP@@ruoyi-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9411:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 10:42:10,672 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-order, ips: 192.168.0.104:9411_true,
+
+2021-06-06 10:46:36,318 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 10:46:36,318 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 192.168.0.104:9201_true,
+
+2021-06-06 10:53:32,130 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9411@DEFAULT@DEFAULT_GROUP@@ruoyi-order, region: unknown, msg: client timeout after 15000, last beat: 1622947994881
+
+2021-06-06 10:53:33,492 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8080@DEFAULT@DEFAULT_GROUP@@ruoyi-gateway, region: unknown, msg: client timeout after 15000, last beat: 1622947994786
+
+2021-06-06 10:53:34,860 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9200@DEFAULT@DEFAULT_GROUP@@ruoyi-auth, region: unknown, msg: client timeout after 15000, last beat: 1622947995586
+
+2021-06-06 10:53:37,134 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9201@DEFAULT@DEFAULT_GROUP@@ruoyi-system, region: unknown, msg: client timeout after 15000, last beat: 1622947997847
+
+2021-06-06 10:53:49,658 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 10:53:49,659 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 
+
+2021-06-06 10:53:49,659 INFO DEFAULT_GROUP@@ruoyi-order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9411:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 10:53:49,659 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-order, ips: 
+
+2021-06-06 10:53:49,898 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 10:53:49,898 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 
+
+2021-06-06 10:53:52,157 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 10:53:52,157 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 
+
+2021-06-06 22:39:51,993 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 22:39:51,999 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 192.168.0.104:8080_true,
+
+2021-06-06 22:40:24,781 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 22:40:24,781 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 192.168.0.104:9200_true,
+
+2021-06-06 22:41:30,439 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 22:41:30,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 192.168.0.104:9201_true,
+
+2021-06-06 22:41:30,572 INFO DEFAULT_GROUP@@ruoyi-gen {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 22:41:30,572 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gen, ips: 192.168.0.104:9202_true,
+
+2021-06-06 23:08:18,795 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9202@DEFAULT@DEFAULT_GROUP@@ruoyi-gen, region: unknown, msg: client timeout after 15000, last beat: 1622992083682
+
+2021-06-06 23:08:34,347 INFO DEFAULT_GROUP@@ruoyi-gen {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9202:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 23:08:34,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gen, ips: 
+
+2021-06-06 23:19:51,143 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8080@DEFAULT@DEFAULT_GROUP@@ruoyi-gateway, region: unknown, msg: client timeout after 15000, last beat: 1622992775045
+
+2021-06-06 23:19:59,791 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9200@DEFAULT@DEFAULT_GROUP@@ruoyi-auth, region: unknown, msg: client timeout after 15000, last beat: 1622992780974
+
+2021-06-06 23:20:00,218 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9201@DEFAULT@DEFAULT_GROUP@@ruoyi-system, region: unknown, msg: client timeout after 15000, last beat: 1622992780709
+
+2021-06-06 23:20:06,242 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 23:20:06,242 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 
+
+2021-06-06 23:20:14,828 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 23:20:14,828 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 
+
+2021-06-06 23:20:15,254 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 23:20:15,255 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 
+
+2021-06-06 23:21:09,506 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 23:21:09,506 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 192.168.0.104:8080_true,
+
+2021-06-06 23:22:00,163 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 23:22:00,163 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 192.168.0.104:9200_true,
+
+2021-06-06 23:23:12,678 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 23:23:12,680 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 192.168.0.104:9201_true,
+
+2021-06-06 23:41:44,884 INFO DEFAULT_GROUP@@ruoyi-sales {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 23:41:44,884 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-sales, ips: 192.168.0.104:9401_true,
+
+2021-06-06 23:49:39,756 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8080@DEFAULT@DEFAULT_GROUP@@ruoyi-gateway, region: unknown, msg: client timeout after 15000, last beat: 1622994561461
+
+2021-06-06 23:49:54,802 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 23:49:54,802 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 
+
+2021-06-06 23:50:18,260 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9200@DEFAULT@DEFAULT_GROUP@@ruoyi-auth, region: unknown, msg: client timeout after 15000, last beat: 1622994599244
+
+2021-06-06 23:50:18,688 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9201@DEFAULT@DEFAULT_GROUP@@ruoyi-system, region: unknown, msg: client timeout after 15000, last beat: 1622994601244
+
+2021-06-06 23:50:33,342 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 23:50:33,342 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 
+
+2021-06-06 23:50:33,781 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 23:50:33,781 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 
+
+2021-06-06 23:51:02,434 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 23:51:02,434 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 192.168.0.104:8080_true,
+
+2021-06-06 23:51:10,999 INFO DEFAULT_GROUP@@ruoyi-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 23:51:11,000 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-auth, ips: 192.168.0.104:9200_true,
+
+2021-06-06 23:51:16,036 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:9401@DEFAULT@DEFAULT_GROUP@@ruoyi-sales, region: unknown, msg: client timeout after 15000, last beat: 1622994660557
+
+2021-06-06 23:51:31,101 INFO DEFAULT_GROUP@@ruoyi-sales {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:9401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 23:51:31,101 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-sales, ips: 
+
+2021-06-06 23:51:46,717 INFO DEFAULT_GROUP@@ruoyi-system {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 23:51:46,718 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-system, ips: 192.168.0.104:9201_true,
+
+2021-06-06 23:52:15,040 INFO DEFAULT_GROUP@@ruoyi-sales {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.104:9401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-06 23:52:15,040 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-sales, ips: 192.168.0.104:9401_true,
+
+2021-06-06 23:59:26,019 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8080@DEFAULT@DEFAULT_GROUP@@ruoyi-gateway, region: unknown, msg: client timeout after 15000, last beat: 1622995147932
+
+2021-06-06 23:59:41,047 INFO DEFAULT_GROUP@@ruoyi-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.104:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-06 23:59:41,048 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@ruoyi-gateway, ips: 
+

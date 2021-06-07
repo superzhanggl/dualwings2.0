@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ruoyi.sales.mapper.SalesTestMapper">
+    
+    <resultMap type="SalesTest" id="SalesTestResult">
+        <result property="testId"    column="test_id"    />
+        <result property="name"    column="name"    />
+        <result property="type"    column="type"    />
+        <result property="crtAcct"    column="crt_acct"    />
+        <result property="crtDt"    column="crt_dt"    />
+        <result property="mdfAcct"    column="mdf_acct"    />
+        <result property="mdfDt"    column="mdf_dt"    />
+    </resultMap>
+
+    <sql id="selectSalesTestVo">
+        select test_id, name, type, crt_acct, crt_dt, mdf_acct, mdf_dt from sales_test
+    </sql>
+
+    <select id="selectSalesTestList" parameterType="SalesTest" resultMap="SalesTestResult">
+        <include refid="selectSalesTestVo"/>
+        <where>  
+            <if test="testId != null "> and test_id = #{testId}</if>
+            <if test="name != null  and name != ''"> and name like concat('%', #{name}, '%')</if>
+            <if test="type != null  and type != ''"> and type = #{type}</if>
+            <if test="crtAcct != null  and crtAcct != ''"> and crt_acct = #{crtAcct}</if>
+            <if test="crtDt != null "> and crt_dt = #{crtDt}</if>
+            <if test="mdfAcct != null  and mdfAcct != ''"> and mdf_acct = #{mdfAcct}</if>
+            <if test="mdfDt != null "> and mdf_dt = #{mdfDt}</if>
+        </where>
+    </select>
+    
+    <select id="selectSalesTestById" parameterType="Long" resultMap="SalesTestResult">
+        <include refid="selectSalesTestVo"/>
+        where test_id = #{testId}
+    </select>
+        
+    <insert id="insertSalesTest" parameterType="SalesTest">
+        insert into sales_test
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="testId != null">test_id,</if>
+            <if test="name != null">name,</if>
+            <if test="type != null">type,</if>
+            <if test="crtAcct != null">crt_acct,</if>
+            <if test="crtDt != null">crt_dt,</if>
+            <if test="mdfAcct != null">mdf_acct,</if>
+            <if test="mdfDt != null">mdf_dt,</if>
+         </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <if test="testId != null">#{testId},</if>
+            <if test="name != null">#{name},</if>
+            <if test="type != null">#{type},</if>
+            <if test="crtAcct != null">#{crtAcct},</if>
+            <if test="crtDt != null">#{crtDt},</if>
+            <if test="mdfAcct != null">#{mdfAcct},</if>
+            <if test="mdfDt != null">#{mdfDt},</if>
+         </trim>
+    </insert>
+
+    <update id="updateSalesTest" parameterType="SalesTest">
+        update sales_test
+        <trim prefix="SET" suffixOverrides=",">
+            <if test="name != null">name = #{name},</if>
+            <if test="type != null">type = #{type},</if>
+            <if test="crtAcct != null">crt_acct = #{crtAcct},</if>
+            <if test="crtDt != null">crt_dt = #{crtDt},</if>
+            <if test="mdfAcct != null">mdf_acct = #{mdfAcct},</if>
+            <if test="mdfDt != null">mdf_dt = #{mdfDt},</if>
+        </trim>
+        where test_id = #{testId}
+    </update>
+
+    <delete id="deleteSalesTestById" parameterType="Long">
+        delete from sales_test where test_id = #{testId}
+    </delete>
+
+    <delete id="deleteSalesTestByIds" parameterType="String">
+        delete from sales_test where test_id in 
+        <foreach item="testId" collection="array" open="(" separator="," close=")">
+            #{testId}
+        </foreach>
+    </delete>
+</mapper>

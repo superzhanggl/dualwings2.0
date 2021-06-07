@@ -1,0 +1,321 @@
+2021-06-04 00:02:01,934 ERROR [db-error] master db  down.
+
+2021-06-04 00:02:01,958 ERROR [master-db] master db not found.
+
+2021-06-04 00:02:11,950 ERROR [db-error] master db  down.
+
+2021-06-04 00:02:11,981 ERROR [master-db] master db not found.
+
+2021-06-04 00:02:21,960 ERROR [db-error] master db  down.
+
+2021-06-04 00:02:22,005 ERROR [master-db] master db not found.
+
+2021-06-04 00:02:31,965 ERROR [db-error] master db  down.
+
+2021-06-04 00:02:32,028 ERROR [master-db] master db not found.
+
+2021-06-04 00:02:41,981 ERROR [db-error] master db  down.
+
+2021-06-04 00:02:42,058 ERROR [master-db] master db not found.
+
+2021-06-04 00:02:51,999 ERROR [db-error] master db  down.
+
+2021-06-04 00:02:52,077 ERROR [master-db] master db not found.
+
+2021-06-04 00:03:02,017 ERROR [db-error] master db  down.
+
+2021-06-04 00:03:02,109 ERROR [master-db] master db not found.
+
+2021-06-04 00:03:12,023 ERROR [db-error] master db  down.
+
+2021-06-04 00:03:12,132 ERROR [master-db] master db not found.
+
+2021-06-04 00:03:22,031 ERROR [db-error] master db  down.
+
+2021-06-04 00:03:22,157 ERROR [master-db] master db not found.
+
+2021-06-04 00:03:32,050 ERROR [db-error] master db  down.
+
+2021-06-04 00:03:32,175 ERROR [master-db] master db not found.
+
+2021-06-04 00:03:42,060 ERROR [db-error] master db  down.
+
+2021-06-04 00:03:42,200 ERROR [master-db] master db not found.
+
+2021-06-04 00:03:52,075 ERROR [db-error] master db  down.
+
+2021-06-04 00:03:52,231 ERROR [master-db] master db not found.
+
+2021-06-04 00:04:02,083 ERROR [db-error] master db  down.
+
+2021-06-04 00:04:02,251 ERROR [master-db] master db not found.
+
+2021-06-04 00:04:12,092 ERROR [db-error] master db  down.
+
+2021-06-04 00:04:12,283 ERROR [master-db] master db not found.
+
+2021-06-04 00:04:22,100 ERROR [db-error] master db  down.
+
+2021-06-04 00:04:22,313 ERROR [master-db] master db not found.
+
+2021-06-04 00:04:32,110 ERROR [db-error] master db  down.
+
+2021-06-04 00:04:32,331 ERROR [master-db] master db not found.
+
+2021-06-04 00:04:42,120 ERROR [db-error] master db  down.
+
+2021-06-04 00:04:42,354 ERROR [master-db] master db not found.
+
+2021-06-04 00:04:52,134 ERROR [db-error] master db  down.
+
+2021-06-04 00:04:52,376 ERROR [master-db] master db not found.
+
+2021-06-04 00:05:02,150 ERROR [db-error] master db  down.
+
+2021-06-04 00:05:02,399 ERROR [master-db] master db not found.
+
+2021-06-04 00:05:12,158 ERROR [db-error] master db  down.
+
+2021-06-04 00:05:12,433 ERROR [master-db] master db not found.
+
+2021-06-04 00:05:22,167 ERROR [db-error] master db  down.
+
+2021-06-04 00:05:22,460 ERROR [master-db] master db not found.
+
+2021-06-04 00:05:32,177 ERROR [db-error] master db  down.
+
+2021-06-04 00:05:32,487 ERROR [master-db] master db not found.
+
+2021-06-04 00:05:42,181 ERROR [db-error] master db  down.
+
+2021-06-04 00:05:42,508 ERROR [master-db] master db not found.
+
+2021-06-04 00:05:52,191 ERROR [db-error] master db  down.
+
+2021-06-04 00:05:52,535 ERROR [master-db] master db not found.
+
+2021-06-04 00:06:02,197 ERROR [db-error] master db  down.
+
+2021-06-04 00:06:02,555 ERROR [master-db] master db not found.
+
+2021-06-04 00:06:12,216 ERROR [db-error] master db  down.
+
+2021-06-04 00:06:12,583 ERROR [master-db] master db not found.
+
+2021-06-04 00:06:22,220 ERROR [db-error] master db  down.
+
+2021-06-04 00:06:22,616 ERROR [master-db] master db not found.
+
+2021-06-04 00:06:32,236 ERROR [db-error] master db  down.
+
+2021-06-04 00:06:32,645 ERROR [master-db] master db not found.
+
+2021-06-04 00:06:42,242 ERROR [db-error] master db  down.
+
+2021-06-04 00:06:42,670 ERROR [master-db] master db not found.
+
+2021-06-04 00:06:52,249 ERROR [db-error] master db  down.
+
+2021-06-04 00:06:52,698 ERROR [master-db] master db not found.
+
+2021-06-04 00:07:02,264 ERROR [db-error] master db  down.
+
+2021-06-04 00:07:02,719 ERROR [master-db] master db not found.
+
+2021-06-04 00:07:12,279 ERROR [db-error] master db  down.
+
+2021-06-04 00:07:12,743 ERROR [master-db] master db not found.
+
+2021-06-04 00:07:22,286 ERROR [db-error] master db  down.
+
+2021-06-04 00:07:22,772 ERROR [master-db] master db not found.
+
+2021-06-04 00:07:32,295 ERROR [db-error] master db  down.
+
+2021-06-04 00:07:32,801 ERROR [master-db] master db not found.
+
+2021-06-04 00:07:42,310 ERROR [db-error] master db  down.
+
+2021-06-04 00:07:42,829 ERROR [master-db] master db not found.
+
+2021-06-04 00:07:52,315 ERROR [db-error] master db  down.
+
+2021-06-04 00:07:52,849 ERROR [master-db] master db not found.
+
+2021-06-04 00:08:02,317 ERROR [db-error] master db  down.
+
+2021-06-04 00:08:02,880 ERROR [master-db] master db not found.
+
+2021-06-04 00:08:12,332 ERROR [db-error] master db  down.
+
+2021-06-04 00:08:12,901 ERROR [master-db] master db not found.
+
+2021-06-04 00:08:22,344 ERROR [db-error] master db  down.
+
+2021-06-04 00:08:22,927 ERROR [master-db] master db not found.
+
+2021-06-04 00:08:32,348 ERROR [db-error] master db  down.
+
+2021-06-04 00:08:32,947 ERROR [master-db] master db not found.
+
+2021-06-04 00:08:42,359 ERROR [db-error] master db  down.
+
+2021-06-04 00:08:42,970 ERROR [master-db] master db not found.
+
+2021-06-04 00:08:52,363 ERROR [db-error] master db  down.
+
+2021-06-04 00:08:52,986 ERROR [master-db] master db not found.
+
+2021-06-04 00:09:02,369 ERROR [db-error] master db  down.
+
+2021-06-04 00:09:03,003 ERROR [master-db] master db not found.
+
+2021-06-04 00:09:12,385 ERROR [db-error] master db  down.
+
+2021-06-04 00:09:13,030 ERROR [master-db] master db not found.
+
+2021-06-04 00:09:22,400 ERROR [db-error] master db  down.
+
+2021-06-04 00:09:23,066 ERROR [master-db] master db not found.
+
+2021-06-04 00:09:32,412 ERROR [db-error] master db  down.
+
+2021-06-04 00:09:33,089 ERROR [master-db] master db not found.
+
+2021-06-04 00:09:42,416 ERROR [db-error] master db  down.
+
+2021-06-04 00:09:43,118 ERROR [master-db] master db not found.
+
+2021-06-04 00:09:52,427 ERROR [db-error] master db  down.
+
+2021-06-04 00:09:53,135 ERROR [master-db] master db not found.
+
+2021-06-04 00:10:02,445 ERROR [db-error] master db  down.
+
+2021-06-04 00:10:03,162 ERROR [master-db] master db not found.
+
+2021-06-04 00:10:12,463 ERROR [db-error] master db  down.
+
+2021-06-04 00:10:13,184 ERROR [master-db] master db not found.
+
+2021-06-04 00:10:22,473 ERROR [db-error] master db  down.
+
+2021-06-04 00:10:23,209 ERROR [master-db] master db not found.
+
+2021-06-04 00:10:32,475 ERROR [db-error] master db  down.
+
+2021-06-04 00:10:33,232 ERROR [master-db] master db not found.
+
+2021-06-04 00:10:42,482 ERROR [db-error] master db  down.
+
+2021-06-04 00:10:43,263 ERROR [master-db] master db not found.
+
+2021-06-04 00:10:52,490 ERROR [db-error] master db  down.
+
+2021-06-04 00:10:53,290 ERROR [master-db] master db not found.
+
+2021-06-04 00:11:02,504 ERROR [db-error] master db  down.
+
+2021-06-04 00:11:03,315 ERROR [master-db] master db not found.
+
+2021-06-04 00:11:12,511 ERROR [db-error] master db  down.
+
+2021-06-04 00:11:13,339 ERROR [master-db] master db not found.
+
+2021-06-04 00:11:22,513 ERROR [db-error] master db  down.
+
+2021-06-04 00:11:23,366 ERROR [master-db] master db not found.
+
+2021-06-04 00:11:32,524 ERROR [db-error] master db  down.
+
+2021-06-04 00:11:33,398 ERROR [master-db] master db not found.
+
+2021-06-04 00:11:42,539 ERROR [db-error] master db  down.
+
+2021-06-04 00:11:43,430 ERROR [master-db] master db not found.
+
+2021-06-04 00:11:52,550 ERROR [db-error] master db  down.
+
+2021-06-04 00:11:53,465 ERROR [master-db] master db not found.
+
+2021-06-04 00:12:02,565 ERROR [db-error] master db  down.
+
+2021-06-04 00:12:03,483 ERROR [master-db] master db not found.
+
+2021-06-04 00:12:12,578 ERROR [db-error] master db  down.
+
+2021-06-04 00:12:13,512 ERROR [master-db] master db not found.
+
+2021-06-04 00:12:22,595 ERROR [db-error] master db  down.
+
+2021-06-04 00:12:23,541 ERROR [master-db] master db not found.
+
+2021-06-04 00:12:32,611 ERROR [db-error] master db  down.
+
+2021-06-04 00:12:33,563 ERROR [master-db] master db not found.
+
+2021-06-04 00:12:42,627 ERROR [db-error] master db  down.
+
+2021-06-04 00:12:43,598 ERROR [master-db] master db not found.
+
+2021-06-04 00:12:52,634 ERROR [db-error] master db  down.
+
+2021-06-04 00:12:53,616 ERROR [master-db] master db not found.
+
+2021-06-04 00:13:02,641 ERROR [db-error] master db  down.
+
+2021-06-04 00:13:03,631 ERROR [master-db] master db not found.
+
+2021-06-04 00:13:12,658 ERROR [db-error] master db  down.
+
+2021-06-04 00:13:13,664 ERROR [master-db] master db not found.
+
+2021-06-04 00:13:22,669 ERROR [db-error] master db  down.
+
+2021-06-04 00:13:23,682 ERROR [master-db] master db not found.
+
+2021-06-04 00:13:32,677 ERROR [db-error] master db  down.
+
+2021-06-04 00:13:33,703 ERROR [master-db] master db not found.
+
+2021-06-04 00:13:42,692 ERROR [db-error] master db  down.
+
+2021-06-04 00:13:43,735 ERROR [master-db] master db not found.
+
+2021-06-04 00:13:52,703 ERROR [db-error] master db  down.
+
+2021-06-04 00:13:53,812 ERROR [master-db] master db not found.
+
+2021-06-04 00:14:02,719 ERROR [db-error] master db  down.
+
+2021-06-04 00:14:03,844 ERROR [master-db] master db not found.
+
+2021-06-04 00:16:12,273 ERROR [master-db] master db not found.
+
+2021-06-04 00:16:12,288 ERROR [db-error] master db  down.
+
+2021-06-04 00:16:17,194 WARN useAddressServer:true
+
+2021-06-04 00:16:17,379 WARN isQuickStart:false
+
+2021-06-04 00:16:17,449 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2021-06-04 00:16:22,301 ERROR [db-error] master db  down.
+
+2021-06-04 00:16:22,310 ERROR [master-db] master db not found.
+
+2021-06-04 00:16:32,307 ERROR [db-error] master db  down.
+
+2021-06-04 00:16:32,370 ERROR [master-db] master db not found.
+
+2021-06-04 00:16:42,314 ERROR [db-error] master db  down.
+
+2021-06-04 00:16:42,414 ERROR [master-db] master db not found.
+
+2021-06-04 00:20:31,057 WARN [master-db] jdbc:mysql://localhost:3306/dw_system?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useUnicode=true&useSSL=false&serverTimezone=UTC
+
+2021-06-04 00:20:41,518 WARN useAddressServer:true
+
+2021-06-04 00:20:41,793 WARN isQuickStart:false
+

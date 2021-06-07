@@ -1,0 +1,40 @@
+2021-06-03 23:56:19,761 INFO notifyConnectTimeout:200
+
+2021-06-03 23:56:19,762 INFO notifySocketTimeout:8000
+
+2021-06-03 23:56:19,762 INFO isHealthCheck:true
+
+2021-06-03 23:56:19,762 INFO maxHealthCheckFailCount:12
+
+2021-06-03 23:56:19,762 INFO maxContent:10485760
+
+2021-06-03 23:56:19,763 INFO spring.datasource.platform:mysql
+
+2021-06-03 23:56:27,169 INFO ServerListService address-server port:8848
+
+2021-06-03 23:56:27,170 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2021-06-03 23:56:27,171 WARN [serverlist] updated to [192.168.0.104]
+
+2021-06-03 23:56:27,419 WARN DumpService start
+
+2021-06-03 23:56:27,425 INFO start clear all config-info.
+
+2021-06-03 23:56:27,471 WARN clear all config-info failed.
+
+2021-06-03 23:56:27,472 WARN clear all config-info-tenant failed.
+
+2021-06-03 23:56:27,712 INFO [all-dump] 9 / 9
+
+2021-06-03 23:56:27,712 INFO start clear all config-info-beta.
+
+2021-06-03 23:56:27,717 WARN clear all config-info-beta failed.
+
+2021-06-03 23:56:27,717 WARN clear all config-info-beta-tenant failed.
+
+2021-06-03 23:56:27,726 INFO start clear all config-info-tag.
+
+2021-06-03 23:56:27,727 WARN clear all config-info-tag failed.
+
+2021-06-03 23:56:27,727 WARN clear all config-info-tag-tenant failed.
+
